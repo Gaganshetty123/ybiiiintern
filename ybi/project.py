@@ -65,7 +65,7 @@ mean_absolute_error(y_test,y_pred)
 
 mean_absolute_percentage_error(y_test,y_pred)
 
-mean_squared_error(y_test,y_pred)
+# mean_squared_error(y_test,y_pred)
 
 model.predict([[540,0,0,162,2.5,1040,676,28]])
 
